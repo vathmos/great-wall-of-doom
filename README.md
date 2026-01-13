@@ -2,7 +2,9 @@
 
 Cross-browser extension scaffold for blocking "doom scrolling" sections across social media.
 
-![Great Wall of Doom icon](extension/icons/GWOD.png)
+<p align="center">
+  <img src="extension/icons/GWOD.png" alt="Randus logo" style="width:288px"/>
+</p>
 
 ## Load the extension
 
